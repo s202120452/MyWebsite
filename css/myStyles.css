@@ -6,7 +6,7 @@ body{
    background-color: #ffffff;
 }
 h1 {
-   color: #493595 ;
+   color: #e617b9 ;
    margin-left: 80px;
    text-align: center;
 }
@@ -29,13 +29,13 @@ nav li {
 }
 nav a {
    text-decoration: none;
-   color: rgb(58, 16, 212);
+   color: rgb(255, 255, 255);
    font-size: 1.2em;
    font-weight: bold;
    margin-right: 20px;
 }
 nav a:hover{
-   color: black;
+   color: #e617b9;
 }
 section {
    float: left;
@@ -69,4 +69,13 @@ table {
    float:left;
    margin-right: 10px;
    margin-bottom: 10px;
+}
+p{
+   color:#ffffff
+}
+label{
+   color:#ffffff
+}
+table{
+   color: white
 }
